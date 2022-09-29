@@ -1,1 +1,3 @@
 formation <- "bien"
+
+nouveau <- formation
