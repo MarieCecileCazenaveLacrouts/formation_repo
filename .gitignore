@@ -55,7 +55,7 @@ rsconnect/
 data/
 
 # fichiers html
-.html
+*.html
 
 # fichiers pdf
-.pdf
+*.pdf
