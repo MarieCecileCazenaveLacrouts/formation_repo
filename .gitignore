@@ -56,6 +56,7 @@ data/
 
 # fichiers html
 *.html
+*.Rhtml
 
 # fichiers pdf
 *.pdf
